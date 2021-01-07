@@ -1,7 +1,7 @@
 def square_array(array)
   new_array = []
   array.length.times do |index|  
-    new_array.push(array[index]Integer.sqrt())
+    new_array.push(array[index].sqrt)
   end 
   new_array
 end
