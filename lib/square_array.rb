@@ -1,4 +1,4 @@
 def square_array(array)
-  while 
+  while array.length.times do |index|
   
 end
